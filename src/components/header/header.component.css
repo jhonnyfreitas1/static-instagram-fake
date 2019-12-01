@@ -1,0 +1,55 @@
+header {
+  background-color: #fff;
+  height: 2.5em;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid 1px #dcdcdc;
+  padding: 1em;
+  padding-left: 16%;
+  padding-right: 16%;
+}
+.fa-compass {
+  margin-right: 0.5em;
+}
+.fa-heart {
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+.fa-user {
+  margin-left: 0.5em;
+}
+.fa-lg {
+  cursor: pointer;
+}
+.logo-header {
+  cursor: pointer;
+}
+.pesquisar-header {
+  border: solid 1px #dcdcdc;
+  border-radius: 2px;
+  height: 1.7em;
+  padding-left: 1.2em;
+  background-image: url("http://www.economia.gov.br/agendas/imagens/6945bbe2bb8c06e45f114c9bfcbe0bcd.png/@@images/94828261-c7f6-418a-97e6-7753c97a3fbb.png");
+}
+.img-header {
+  height: 10vh;
+  width: 40vh;
+}
+.img-insta {
+  padding-right: 1em;
+  border-right: solid 2px black;
+}
+.text-header {
+  padding-left: 0.5em;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 25px;
+  letter-spacing: -3px;
+  word-spacing: -2.8px;
+  color: #000000;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: italic;
+  font-variant: normal;
+  text-transform: none;
+}

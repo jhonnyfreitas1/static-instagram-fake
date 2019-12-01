@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  background-color: #fafafa;
+}
+navbar {
+  display: flex;
+  flex-direction: column;
+  right: 0;
+  right: 10em;
+}
+.content {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}

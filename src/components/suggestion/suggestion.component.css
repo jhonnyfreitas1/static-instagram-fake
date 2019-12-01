@@ -1,0 +1,48 @@
+.suggestions {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1em;
+  border: solid 1px #babaca;
+  padding: 1em;
+  width: 80%;
+  background-color: #fff;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+.suggestion {
+  color: gray;
+  margin-right: 2em;
+  cursor: pointer;
+}
+.ver_tudo {
+  font-size: 13px;
+  margin-right: 2em;
+  margin-left: 2em;
+  cursor: pointer;
+}
+.list-suggestion {
+  display: inline;
+  margin-bottom: 1em;
+}
+.img-suggestions {
+  width: 5vh;
+  border-radius: 100px;
+  height: 5vh;
+}
+.seguindo {
+  margin-left: 3em;
+}
+.name-suggestion:after {
+  content: "Segue você";
+  position: absolute;
+  display: block;
+  color: gray;
+  margin-left: 3em;
+  font-size: 70%;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,37 @@
+.name-user-card {
+  font-weight: bold;
+}
+
+.img-card {
+  width: 7vh;
+  height: 5vh;
+  border-radius: 100px;
+  margin-top: -0.5em;
+}
+.names {
+  margin-left: 0.6em;
+  margin-top: -1em;
+}
+.profile {
+  display: flex;
+}
+.img-post {
+  width: 100%;
+  margin-top: -0.9em;
+}
+.carditem {
+  border: 1px solid #babaca;
+  border-radius: 5px;
+  height: 100%;
+  margin-bottom: 2em;
+}
+.icons1 {
+  float: left;
+  margin: 1em;
+}
+.icons1:hover {
+  color: red;
+}
+.name-user-card {
+  font-size: 90%;
+}

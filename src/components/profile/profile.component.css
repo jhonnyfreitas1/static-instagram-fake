@@ -1,0 +1,23 @@
+.name-user {
+  font-weight: bold;
+}
+.name-user:after {
+  content: "Jhonny de farias";
+  position: absolute;
+  display: block;
+  color: gray;
+  font-size: 70%;
+}
+
+.img-profile {
+  width: 10vh;
+  border-radius: 100px;
+}
+.names-profile {
+  margin-left: 0.6em;
+  margin-top: -0.3em;
+}
+.profile {
+  display: flex;
+  padding: 1em;
+}
